@@ -1,0 +1,10 @@
+{
+  "name": "binrobot-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.3"
+  }
+}
